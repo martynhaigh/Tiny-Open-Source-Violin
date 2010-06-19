@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiny Open Source Violin</string>
+	<color name="background">#fff</color>
+    <string name="about_text">Developer: Martyn Haigh\nVersion: 1\nInspired by: http://xkcd.com/743/\nTo Seren: I win.</string>
+	
+</resources>
