@@ -4,17 +4,18 @@
 	<color name="background">#fff</color>
 	<color name="highlight">#f00</color>
 	<color name="subtle">#888</color>
-    <string name="about_text">Developer: Martyn Haigh\nVersion: 1.2\nInspired by: http://xkcd.com/743/\nURL: http://github.com/martynhaigh/Tiny-Open-Source-Violin\nTo Seren: I still win :) </string>
+    <string name="about_text">Developer: Martyn Haigh\nVersion: %s\nInspired by: http://xkcd.com/743/\nURL: http://github.com/martynhaigh/Tiny-Open-Source-Violin\nTo Seren: I still win :) </string>
 	
 <string-array name="sizes"><item>small</item>
 <item>medium</item>
 <item>large</item>
 </string-array>
 
-<string-array name="whatsNew"><item>Scalable violin to suit the occasion - just click and drag the corners around the violin</item>
-<item>Slightly reworked music</item>
-<item>Made the bow move forwards and back whilst you move your finger around</item>
+<string-array name="whatsNew">
+<item>The included songs were way too quiet, so I made them louder!</item>
+<item>NEW! Select your own song, or let the app select from one of the three bundled songs</item>
 </string-array>
 <string name="whatsNewText">What\'s new in version </string>
 <string name="ok">Thanks</string>
+<string name="music_select">Select Music File</string>
 </resources>
